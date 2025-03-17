@@ -39,10 +39,13 @@ Badges
 
 </h3>
 
-<a align="center">
+<div align="center"> 
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NoNeedToSleep&bg_color=0D1117&text_color=FFFFFF&rank_icon=github&card_width=500&custom_title=noneedtosleep) ![LeetCode Stats](https://leetcard.jacoblin.cool/noneedtosleep?theme=dark&font=Noto%20Sans%20Glagolitic&height=195&border=1) 
+  
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NoNeedToSleep&bg_color=0D1117&text_color=FFFFFF&rank_icon=github&card_width=405&custom_title=noneedtosleep) ![LeetCode Stats](https://leetcard.jacoblin.cool/noneedtosleep?theme=dark&font=Noto%20Sans%20Glagolitic&width=500&height=195&border=1)
+<a align="center">  </a>
 
-</a>
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NoNeedToSleep&theme=github-compact&radius=6&hide_border=true&hide_title=true&grid=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
