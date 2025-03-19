@@ -6,7 +6,8 @@
 Beginner Full Stack Developer
 </h2>
 
-* ✉️  You can contact me at [noneedtosleep1@gmail.com](mailto:noneedtosleep1@gmail.com)
+<br>* ✉️  You can contact me at [noneedtosleep1@gmail.com](mailto:noneedtosleep1@gmail.com)<br>
+
 
 
 
