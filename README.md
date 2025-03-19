@@ -6,7 +6,6 @@
 Beginner Full Stack Developer
 </h2>
 
-* 🌍  I'm based in Russia 🇷🇺
 * ✉️  You can contact me at [noneedtosleep1@gmail.com](mailto:noneedtosleep1@gmail.com)
 
 
